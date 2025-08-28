@@ -1,1 +1,11 @@
-
+Arc Goal Generation Parameters
+==============================
+Center X: 100
+Center Y: 100
+Radius: 2100
+Real number of Goals: 6
+Setting Number of Goals: 12
+Image Width: 2420
+Image Height: 2920
+Start Degree: 0
+End Degree: 180
