@@ -16,7 +16,7 @@ tions of large deformation, suggesting a future direction for integrating physic
 deep learning–based residual compensation.
 
 
-# Since the paper has not yet been published or made public, this repository only provides partial test data screenshots, result figures, and a few videos. 
-# The complete content and source code will be updated in another repository. 
-# For more detailed information or access to the full code, please contact me at:
-# Email: chenxiang_hust@163.com
+#### Since the paper has not yet been published or made public, this repository only provides partial test data screenshots, result figures, and a few videos. 
+#### The complete content and source code will be updated in another repository. 
+#### For more detailed information or access to the full code, please contact me at:
+#### Email: chenxiang_hust@163.com
